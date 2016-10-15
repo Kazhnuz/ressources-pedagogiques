@@ -21,6 +21,7 @@ Des ensembles de logiciels ludo-éducatif.
 ### Logiciels pour les écoles
 
 - [libreoffice des écoles](http://libreofficedesecoles.free.fr/) – Libreoffice, avec des interfaces adaptées pour les différents cycles.
+- [Open-Sankoré](http://open-sankore.org/fr) – Un logiciel pour les TBI (celui-là, je pense que vous le verrez souvent, il est développé par l'EN :p)
 
 ### Jeux vidéo pouvant être utile
 
