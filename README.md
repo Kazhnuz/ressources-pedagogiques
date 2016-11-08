@@ -47,6 +47,10 @@ Des systèmes d'éducations construits pour être utilisé dans des écoles, et 
 - [Liste de ressources libres de Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ressources_libres#Texte)
 - [Liste de ressources libres de Wikiversité](https://fr.wikiversity.org/wiki/Ressources_%C3%A9ducatives_libres)
 
+## Ressources pédagogiques
+
+- [Trousse Numérique](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html)
+
 ### Ressources culturelles du Domaine Public
 
 - [Projet Gutemberg](http://www.gutenberg.org/wiki/FR_Principal) — Des versions numériques de livres du domaine publique
