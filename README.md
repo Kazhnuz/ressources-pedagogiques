@@ -1,6 +1,6 @@
 # Ressources en ligne utile pour l'éducation
 
-## Ressources informatiques
+## Ressources logicielles
 
 ### Distributions Linux pour les écoles
 
@@ -51,26 +51,40 @@
 - [Pepit](http://www.pepit.be/) - Exercices éducatifs (cycles 1, 2 et 3)
 - [Matou Matheu](matoumatheux.ac-rennes.fr/accueilniveaux/accueilFrance.htm) – Exercices de mathématiques (cycles 2 et 3)
 - [Les Incollables](http://www.lesincollables.com/index.php?p_m=incos&p_a=home) – Quizz en lignes (cycles 2 et 3)
+- [Tilou](http://www.tilou.info/) – Activités pour la maternelle
+- [Wismo](http://www.wismo.ch/jeux/) – Jeux pour la maternelle
+- [Kizdo](http://www.kidzo.net/) – Pareil
+- [Bowaa et Kwala](http://uptoten.com/?cl=fr) – Pareil
+- [Tibao](http://www.tibao.com/fr/baobab.htm) – Math et lecture (Cycles 1 et 2)
+- [L'instit.com](http://www.linstit.com/exercices-maths-francais-accueil.html) – Exercices de maths et de français (cycles 2 et 3)
+- [aidemoi.net](http://www.aidemoi.net/index.html) – Exercices et jeux éducatifs dédié au soutiens scolaire (cycles 2 et 3)
+- [Calcul@TICE](http://calculatice.ac-lille.fr/calculatice/spip.php?rubrique2) – Exercices de mathématiques (cycles 2 et 3)
+- [Embouteillages](http://micetf.fr/Embouteillages/) – Repérage et logique en GS
+- [Le roi qui n'aimait pas son métier](http://www.pour-enfants.fr/textes-a-trous/trsom.htm) – Histoires à trou (cycles 2 et 3)
+- [Inspecteur Lafouine](http://ecole.toussaint.free.fr/lafouine/lafouine.htm) – Enigmes (cycles 2 et 3)
 
 - [De simples machines](http://www.cite-sciences.fr/ressources-en-ligne/juniors/machines-simples/experiences-ludiques/) – Jeux en liens avec les sciences (cycles 2 et 3)
 
 #### Outils en ligne pour les élèves
 
 - [Qwant Junior](http://qwantjunior.com/) – Un moteur de recherche pour les enfants
+- [BabyGo](http://www.babygo.fr/) – Pareil
 - [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
 - [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
+- [La Météo des Écoles](http://www.meteodesecoles.org/) – Saisie de Relevé météorologique
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
 
 #### Outils pour l'enseignant
 
 - [Edumoov](https://www.edumoov.com/) – Création de fiche de prep
 
-### Dictionnaires et Conjugaison
+#### Dictionnaires et Conjugaison
 
 - [Le Dictionnaire](http://www.le-dictionnaire.com/) – Dictionnaire français
 - [Conjugaison](http://www.conjugaison.com/) – Les conjugaisons
 - [Scribens](https://www.scribens.fr/) – Correcteur d'orthographe
 - [Synonymes](http://www.synonymes.com/) – Dictionnaire des synonymes
+- [Toutes la conjugaison](http://www.toutelaconjugaison.com/index.html)
 
 ### Polices et autres ressources diverses
 
@@ -104,6 +118,7 @@
 - [Mystic Lolly](http://www.mysticlolly-leblog.fr/)
 - [Bout de Gomme](http://boutdegomme.fr)
 - [La classe de Défine](http://laclassededefine.fr)
+- [Les voyages de l'Ours Robinson](http://ien-frontignan-littoral.ac-montpellier.fr/ENT/ours/) – Blog collaboratif de maternelle.
 
 #### Manuels libres 
 
@@ -114,7 +129,13 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 
 #### Activités et ateliers
 
-- [Mômes.net](http://www.momes.net) – Activités et 
+- [Mômes.net](http://www.momes.net) – Activités pour les enfants
+
+#### Ressources pour apprendre
+
+- [Vinz et Lou](http://www.vinzetlou.net/) – Citoyenneté, environnement, alimentation et internet
+- [Surfer Prudent](http://surferprudent.org/) – Déjouez les risques qui existent sur la toile.
+- [Boohbah](http://ien-frontignan-littoral.ac-montpellier.fr/Boohbah/boobah.swf) – Activités pour apprendre à utiliser le numérique en cycle 1
 
 ### Ressources culturelles
 
@@ -138,6 +159,7 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 #### Histoires pour enfants
 - [Il était une histoire](www.iletaitunehistoire.com) – histoires, pouvant être utile pour la lecture en cycle 1
 - [Continettes](http://continette.free.fr/) – Contes interactifs
+- [Le Petit Vélo Rouge](http://petitvelorouge.free.fr/Nouveau/home.html) – Lecture
 
 #### Musique et ressources audio
 
@@ -151,3 +173,4 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Liste de ressources libres de Wikiversité](https://fr.wikiversity.org/wiki/Ressources_%C3%A9ducatives_libres)
 - [Doc Ubuntu : Logiciels Educatifs pour Enfants](https://doc.ubuntu-fr.org/logiciels_educatifs_pour_les_enfants)
 - [Selection de services Xubecol](http://www.xubecol.ovh/index.php?page=selection)
+- [TakaTrouver](http://www.takatrouver.net/accueil.php) – Liste de services et outils divers
