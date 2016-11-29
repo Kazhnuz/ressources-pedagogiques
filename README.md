@@ -2,6 +2,8 @@
 
 ## Ressources informatiques
 
+- [Informatique Enseignant](informatique-enseignant.com)
+
 ### Distributions Linux pour les écoles
 
 *Des systèmes d'éducations construits pour être utilisé dans des écoles, et adaptés à être utilisés par des enfants et des enseignants*
@@ -30,6 +32,7 @@
 
 - [libreoffice des écoles](http://libreofficedesecoles.free.fr/) – Libreoffice, avec des interfaces adaptées pour les différents cycles.
 - [Open-Sankoré](http://open-sankore.org/fr) – Un logiciel pour les TBI (celui-là, je pense que vous le verrez souvent, il est développé par l'EN :p)
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) / [Photofiltre LX](http://photofiltre-lx.org/) / [Photofiltre](http://www.photofiltre.com/) – Logiciels de dessins 
 
 #### Jeux vidéo pouvant être utile
 
@@ -50,6 +53,7 @@
 
 #### Outils en ligne
 
+- [Qwant Junior](http://qwantjunior.com/) – Un moteur de recherche pour les enfants
 - [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
 - [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
@@ -57,6 +61,7 @@
 ### Polices et autres ressources diverses
 
 - [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
+- [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean, pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
 
 ## Ressources culturelles et pédagogiques
 
@@ -64,7 +69,22 @@
 
 #### Sites institutionnels
 
+- [Eduscol](http://eduscol.fr)
+- [Education.gouv](http://education.gouv.fr/)
 - [Trousse Numérique de l'Académie d'Amiens](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html) 
+
+#### Sites portant sur l'éducation
+
+- [Educavox](http://www.educavox.fr/)
+- [Café Pédagogique](www.cafepedagogique.net/Pages/Accueil.aspx)
+
+#### Blog et sites d'enseignant⋅e⋅s
+
+- [Lutin Bazar](http://lutinbazar.fr)
+- [Orphéécole](http://orpheecole.com)
+- [Mystic Lolly](http://www.mysticlolly-leblog.fr/)
+- [Bout de Gomme](http://boutdegomme.fr)
+- [La classe de Défine](http://laclassededefine.fr)
 
 #### Manuels libres 
 
@@ -81,10 +101,12 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Ebooks libres et gratuits](http://www.ebooksgratuits.com/ebooks.php) – [Pack de ebooks à télécharger](http://www.ebooksgratuits.com/torrent.php) – Idem.
 - [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil)
 - [Wikilivres](https://fr.wikibooks.org/wiki/Accueil) – [Wikijunior](https://fr.wikibooks.org/wiki/Wikijunior)
+- [Gallica](http://gallica.bnf.fr/)
 
 #### Musique et ressources audio
 
 - [MusOpen](https://musopen.org/) — Des enregistrements téléchargeable légalement de musique classique.
+- [Jamendo](https://jamendo.com) — De la musique libre et gratuite
 
 ## Sources et ressources en vrac :
 
