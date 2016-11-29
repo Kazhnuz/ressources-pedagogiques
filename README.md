@@ -1,7 +1,5 @@
 # Ressources en ligne utile pour l'éducation
 
-Voici une petite liste de ressources en ligne qui sont utiles pour l'éducation :) N'hésitez pas à poster des requètes pour rajouter des services et des éléments
-
 ## Ressources informatiques
 
 ### Distributions Linux pour les écoles
@@ -19,6 +17,14 @@ Voici une petite liste de ressources en ligne qui sont utiles pour l'éducation 
 - [AbulÉdu](http://www.abuledu.org/) – [(communauté)](http://abuledu-fr.org/) – 
 - [GCompris](http://gcompris.net/index-fr.html) – Une suite de logiciel éducatifs multiplateforme
 - [KDE Education Project](https://edu.kde.org/) – Suite de logiciels éducatifs du projet KDE
+- [Suite Educelem](http://www2.ac-lyon.fr/services/rhone/ash/spip.php?article252) – Pour Windows/Wine
+- [Childsplay](http://www.schoolsplay.org/) – Petite suite de jeux éducatif
+
+#### Logiciels éducatifs plus spécialisés
+
+#### Maitrise de la souris
+
+- [Pysycache](www.pysycache.org/web/en/presentation.html) - petite suite de jeux pour apprendre à utiliser la souris
 
 #### Logiciels utiles
 
@@ -29,7 +35,18 @@ Voici une petite liste de ressources en ligne qui sont utiles pour l'éducation 
 
 - [Minetest](http://www.minetest.net/) – ([Article de framasoft sur son utilisation](https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/), [deuxième article](https://framablog.org/2016/09/01/framinetest-edu-laissez-microsoft-hors-de-portee-de-nos-enfants/)) — Un clone de minecraft, avec un travail éducatif fait autour grâce au projet Framinetest.
 
+#### Petits jeux (souvent de réflexion)
+
+- [KDE Games](https://www.kde.org/applications/games/) - une suite de jeux développé par le bureau KDE
+- Jeux GNOME - une suite de jeux développé par le bureau GNOME
+- [SGT Puzzles](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/) / [SGT Puzzles Launcher for Xubuntu](https://smdavis.us/2016/11/06/sgt-puzzles-collection-introduction/) - une suite de petits puzzles de réflexions
+
 ### En ligne
+
+#### Exercices et jeux en lignes
+
+- [Taka t'amuser](http://www.takatamuser.com/index.php) - jeux éducatifs en lignes (cycles 1, 2 et 3)
+- [CLIC Ma classe](http://www.clicmaclasse.fr/) - Exercices en lignes (cycle 2)
 
 #### Outils en ligne
 
@@ -74,3 +91,4 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Liste de ressources libres de Wikilivres](https://fr.wikibooks.org/wiki/Wikilivres:Ressources_libres_de_droit)
 - [Liste de ressources libres de Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ressources_libres#Texte)
 - [Liste de ressources libres de Wikiversité](https://fr.wikiversity.org/wiki/Ressources_%C3%A9ducatives_libres)
+- [Doc Ubuntu : Logiciels Educatifs pour Enfants](https://doc.ubuntu-fr.org/logiciels_educatifs_pour_les_enfants)
