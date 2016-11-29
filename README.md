@@ -2,8 +2,6 @@
 
 ## Ressources informatiques
 
-- [Informatique Enseignant](informatique-enseignant.com)
-
 ### Distributions Linux pour les écoles
 
 *Des systèmes d'éducations construits pour être utilisé dans des écoles, et adaptés à être utilisés par des enfants et des enseignants*
@@ -50,13 +48,29 @@
 
 - [Taka t'amuser](http://www.takatamuser.com/index.php) - jeux éducatifs en lignes (cycles 1, 2 et 3)
 - [CLIC Ma classe](http://www.clicmaclasse.fr/) - Exercices en lignes (cycle 2)
+- [Pepit](http://www.pepit.be/) - Exercices éducatifs (cycles 1, 2 et 3)
+- [Matou Matheu](matoumatheux.ac-rennes.fr/accueilniveaux/accueilFrance.htm) – Exercices de mathématiques (cycles 2 et 3)
+- [Les Incollables](http://www.lesincollables.com/index.php?p_m=incos&p_a=home) – Quizz en lignes (cycles 2 et 3)
 
-#### Outils en ligne
+- [De simples machines](http://www.cite-sciences.fr/ressources-en-ligne/juniors/machines-simples/experiences-ludiques/) – Jeux en liens avec les sciences (cycles 2 et 3)
+
+#### Outils en ligne pour les élèves
 
 - [Qwant Junior](http://qwantjunior.com/) – Un moteur de recherche pour les enfants
 - [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
 - [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
+
+#### Outils pour l'enseignant
+
+- [Edumoov](https://www.edumoov.com/) – Création de fiche de prep
+
+### Dictionnaires et Conjugaison
+
+- [Le Dictionnaire](http://www.le-dictionnaire.com/) – Dictionnaire français
+- [Conjugaison](http://www.conjugaison.com/) – Les conjugaisons
+- [Scribens](https://www.scribens.fr/) – Correcteur d'orthographe
+- [Synonymes](http://www.synonymes.com/) – Dictionnaire des synonymes
 
 ### Polices et autres ressources diverses
 
@@ -71,7 +85,12 @@
 
 - [Eduscol](http://eduscol.fr)
 - [Education.gouv](http://education.gouv.fr/)
+- [PRIM à bord](http://eduscol.education.fr/primabord/)
+
+#### Numérique à l'école
+
 - [Trousse Numérique de l'Académie d'Amiens](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html) 
+- [Informatique Enseignant](informatique-enseignant.com)
 
 #### Sites portant sur l'éducation
 
@@ -93,7 +112,19 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [lelivrescolaire.fr](http://www.lelivrescolaire.fr/) (plus pour le collège)
 - [Sésamath](http://www.sesamath.net/) (que pour les maths)
 
+#### Activités et ateliers
+
+- [Mômes.net](http://www.momes.net) – Activités et 
+
 ### Ressources culturelles
+
+#### Ressources culturelles diverses
+
+- [L'histoire par l'image](https://www.histoire-image.org/)
+
+#### Ressources actu et infos
+
+- [1 jour 1 actu](http://www.1jour1actu.com/) – Magazine d'information pour les enfants
 
 #### Livres et ressources textuelles
 
@@ -102,6 +133,11 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil)
 - [Wikilivres](https://fr.wikibooks.org/wiki/Accueil) – [Wikijunior](https://fr.wikibooks.org/wiki/Wikijunior)
 - [Gallica](http://gallica.bnf.fr/)
+- [BNF Enfant](http://enfants.bnf.fr/index.htm) – Bibliothèque numérique des enfants
+
+#### Histoires pour enfants
+- [Il était une histoire](www.iletaitunehistoire.com) – histoires, pouvant être utile pour la lecture en cycle 1
+- [Continettes](http://continette.free.fr/) – Contes interactifs
 
 #### Musique et ressources audio
 
@@ -114,3 +150,4 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Liste de ressources libres de Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ressources_libres#Texte)
 - [Liste de ressources libres de Wikiversité](https://fr.wikiversity.org/wiki/Ressources_%C3%A9ducatives_libres)
 - [Doc Ubuntu : Logiciels Educatifs pour Enfants](https://doc.ubuntu-fr.org/logiciels_educatifs_pour_les_enfants)
+- [Selection de services Xubecol](http://www.xubecol.ovh/index.php?page=selection)
