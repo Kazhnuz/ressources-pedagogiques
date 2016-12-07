@@ -106,6 +106,7 @@
 
 - [Trousse Numérique de l'Académie d'Amiens](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html) 
 - [Informatique Enseignant](informatique-enseignant.com)
+- [ScoopIt TUIC ESPE de Nantes](http://www.scoop.it/t/tuic-espe?nosug=1)
 
 #### Sites portant sur l'éducation
 
