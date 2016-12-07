@@ -73,6 +73,7 @@
 - [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
 - [La Météo des Écoles](http://www.meteodesecoles.org/) – Saisie de Relevé météorologique
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
+- [ViewPure](http://viewpure.com/) — Voir les vidéo youtube sans tout le tatouin autour
 
 #### Outils pour l'enseignant
 
