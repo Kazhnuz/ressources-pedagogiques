@@ -29,7 +29,7 @@
 #### Logiciels utiles
 
 - [libreoffice des écoles](http://libreofficedesecoles.free.fr/) – Libreoffice, avec des interfaces adaptées pour les différents cycles.
-- [Open-Sankoré](http://open-sankore.org/fr) – Un logiciel pour les TBI (celui-là, je pense que vous le verrez souvent, il est développé par l'EN :p)
+- [Open-Sankoré](http://open-sankore.org/fr) – [OpenBoard](http://openboard.ch/download.html) (fork Suisse maintenu) — Un logiciel pour les TBI
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) / [Photofiltre LX](http://photofiltre-lx.org/) / [Photofiltre](http://www.photofiltre.com/) – Logiciels de dessins 
 
 #### Jeux vidéo pouvant être utile
@@ -90,7 +90,7 @@
 ### Polices et autres ressources diverses
 
 - [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
-- [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean, pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
+- [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean. Elle peut être pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
 
 ## Ressources culturelles et pédagogiques
 
