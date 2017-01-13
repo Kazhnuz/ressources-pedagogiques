@@ -74,6 +74,7 @@
 - [La Météo des Écoles](http://www.meteodesecoles.org/) – Saisie de Relevé météorologique
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
 - [ViewPure](http://viewpure.com/) — Voir les vidéo youtube sans tout le tatouin autour
+- [QiRo](https://qiro.fr/) — Un service de question-réponse (hébergé par l'éducation abulédu)
 
 #### Outils pour l'enseignant
 
