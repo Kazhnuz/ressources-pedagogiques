@@ -1,8 +1,36 @@
-# Ressources en ligne utile pour l'éducation
+# Ressources utile pour l'éducation
+
+Une liste de ressources, inspirée des awesome-list, de ressource éducative pouvant être utile pour les enseignants, en particulier ceux de l'école primaire. Créé initialement par [La Tablette De Cire](https://github.com/latablettedecire/), désormais maintenu par Kazhnuz.
+
+## Contenus
+
+- [Ressources logicielles](#ressources-logicielles)
+  - [Distributions Linux scolaires](#distribution-linux-scolaires)
+  - [Suites éducatives](#suites-éducatives)
+  - [Maitrise de la souris](#maitrise-de-la-souris)
+  - [Utilitaires](#utilitaires)
+  - [Jeux](#jeux)
+- [Ressources en ligne](#ressources-en-ligne)
+  - [Sites institutionnels](#sites-institutionnels)
+  - [Ressources pour l'enseignant-e](#ressources-pour-l'enseignant-e)
+  - [Revues éducatives](#revues-éducatives)
+  - [Ressources pour les élèves](#ressources-pour-les-élèves)
+  - [Exercices et jeux](#exercices-et-jeux)
+  - [Outils en ligne](#outils-en-ligne)
+  - [Blog et sites d'enseignant⋅e⋅s](#blog-et-sites-d'enseignant⋅e⋅s)
+- [Ressources culturelles](#ressources-culturelles)
+  - [Actu et infos](#actu-et-infos)
+  - [Textes et livres](#textes-et-livre)
+  - [Ressources audio](#ressources-audio)
+  - [Ressources culturelles diverses](#ressources-culturelles-diverses)
+- [Polices](#polices)
+- [Sources et autres listes](#sources-et-autres-listes)
+  
+---
 
 ## Ressources logicielles
 
-### Distributions Linux pour les écoles
+### Distributions Linux scolaires
 
 *Des systèmes d'éducations construits pour être utilisé dans des écoles, et adaptés à être utilisés par des enfants et des enseignants*
 
@@ -10,9 +38,7 @@
 - [Primtux](http://primtux.fr/)
 - [Xubecole](http://www.xubecol.ovh/)
 
-### Logiciels
-
-#### Suites éducatives complètes
+### Suites éducatives
 
 - [AbulÉdu](http://www.abuledu.org/) – [(communauté)](http://abuledu-fr.org/) – 
 - [GCompris](http://gcompris.net/index-fr.html) – Une suite de logiciel éducatifs multiplateforme
@@ -20,31 +46,58 @@
 - [Suite Educelem](http://www2.ac-lyon.fr/services/rhone/ash/spip.php?article252) – Pour Windows/Wine
 - [Childsplay](http://www.schoolsplay.org/) – Petite suite de jeux éducatif
 
-#### Logiciels éducatifs plus spécialisés
-
-#### Maitrise de la souris
+### Maitrise de la souris
 
 - [Pysycache](www.pysycache.org/web/en/presentation.html) - petite suite de jeux pour apprendre à utiliser la souris
 
-#### Logiciels utiles
+### Utilitaires
 
 - [libreoffice des écoles](http://libreofficedesecoles.free.fr/) – Libreoffice, avec des interfaces adaptées pour les différents cycles.
 - [Open-Sankoré](http://open-sankore.org/fr) – [OpenBoard](http://openboard.ch/download.html) (fork Suisse maintenu) — Un logiciel pour les TBI
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) / [Photofiltre LX](http://photofiltre-lx.org/) / [Photofiltre](http://www.photofiltre.com/) – Logiciels de dessins 
 
-#### Jeux vidéo pouvant être utile
+### Jeux
 
 - [Minetest](http://www.minetest.net/) – ([Article de framasoft sur son utilisation](https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/), [deuxième article](https://framablog.org/2016/09/01/framinetest-edu-laissez-microsoft-hors-de-portee-de-nos-enfants/)) — Un clone de minecraft, avec un travail éducatif fait autour grâce au projet Framinetest.
-
-#### Petits jeux (souvent de réflexion)
-
 - [KDE Games](https://www.kde.org/applications/games/) - une suite de jeux développé par le bureau KDE
 - Jeux GNOME - une suite de jeux développé par le bureau GNOME
 - [SGT Puzzles](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/) / [SGT Puzzles Launcher for Xubuntu](https://smdavis.us/2016/11/06/sgt-puzzles-collection-introduction/) - une suite de petits puzzles de réflexions
 
-### En ligne
+## Ressources en ligne
 
-#### Exercices et jeux en lignes
+### Sites institutionnels
+
+- [Eduscol](http://eduscol.fr)
+- [Education.gouv](http://education.gouv.fr/)
+- [PRIM à bord](http://eduscol.education.fr/primabord/)
+
+### Ressources pour l'enseignant-e
+
+- [Edumoov](https://www.edumoov.com/) – Création de fiche de prep
+- [Trousse Numérique de l'Académie d'Amiens](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html) 
+- [Informatique Enseignant](informatique-enseignant.com)
+- [ScoopIt TUIC ESPE de Nantes](http://www.scoop.it/t/tuic-espe?nosug=1)
+- [Mômes.net](http://www.momes.net) – Activités pour les enfants
+
+### Revues éducatives
+
+- [Educavox](http://www.educavox.fr/)
+- [Café Pédagogique](www.cafepedagogique.net/Pages/Accueil.aspx)
+
+### Manuels libres 
+
+Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
+
+- [lelivrescolaire.fr](http://www.lelivrescolaire.fr/) (plus pour le collège)
+- [Sésamath](http://www.sesamath.net/) (que pour les maths)
+
+### Ressources pour les élèves
+
+- [Vinz et Lou](http://www.vinzetlou.net/) – Citoyenneté, environnement, alimentation et internet
+- [Surfer Prudent](http://surferprudent.org/) – Déjouez les risques qui existent sur la toile.
+- [Boohbah](http://ien-frontignan-littoral.ac-montpellier.fr/Boohbah/boobah.swf) – Activités pour apprendre à utiliser le numérique en cycle 1
+
+### Exercices et jeux
 
 - [Taka t'amuser](http://www.takatamuser.com/index.php) - jeux éducatifs en lignes (cycles 1, 2 et 3)
 - [CLIC Ma classe](http://www.clicmaclasse.fr/) - Exercices en lignes (cycle 2)
@@ -62,10 +115,9 @@
 - [Embouteillages](http://micetf.fr/Embouteillages/) – Repérage et logique en GS
 - [Le roi qui n'aimait pas son métier](http://www.pour-enfants.fr/textes-a-trous/trsom.htm) – Histoires à trou (cycles 2 et 3)
 - [Inspecteur Lafouine](http://ecole.toussaint.free.fr/lafouine/lafouine.htm) – Enigmes (cycles 2 et 3)
-
 - [De simples machines](http://www.cite-sciences.fr/ressources-en-ligne/juniors/machines-simples/experiences-ludiques/) – Jeux en liens avec les sciences (cycles 2 et 3)
 
-#### Outils en ligne pour les élèves
+### Outils en ligne
 
 - [Qwant Junior](http://qwantjunior.com/) – Un moteur de recherche pour les enfants
 - [BabyGo](http://www.babygo.fr/) – Pareil
@@ -76,11 +128,7 @@
 - [ViewPure](http://viewpure.com/) — Voir les vidéo youtube sans tout le tatouin autour
 - [QiRo](https://qiro.fr/) — Un service de question-réponse (hébergé par l'éducation abulédu)
 
-#### Outils pour l'enseignant
-
-- [Edumoov](https://www.edumoov.com/) – Création de fiche de prep
-
-#### Dictionnaires et Conjugaison
+### Dictionnaires et Conjugaison
 
 - [Le Dictionnaire](http://www.le-dictionnaire.com/) – Dictionnaire français
 - [Conjugaison](http://www.conjugaison.com/) – Les conjugaisons
@@ -88,33 +136,7 @@
 - [Synonymes](http://www.synonymes.com/) – Dictionnaire des synonymes
 - [Toutes la conjugaison](http://www.toutelaconjugaison.com/index.html)
 
-### Polices et autres ressources diverses
-
-- [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
-- [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean. Elle peut être pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
-
-## Ressources culturelles et pédagogiques
-
-### Ressources pédagogiques
-
-#### Sites institutionnels
-
-- [Eduscol](http://eduscol.fr)
-- [Education.gouv](http://education.gouv.fr/)
-- [PRIM à bord](http://eduscol.education.fr/primabord/)
-
-#### Numérique à l'école
-
-- [Trousse Numérique de l'Académie d'Amiens](http://dsden02.ac-amiens.fr/tnp/tnp_internet/Trousse_numerique_pedagogique.html) 
-- [Informatique Enseignant](informatique-enseignant.com)
-- [ScoopIt TUIC ESPE de Nantes](http://www.scoop.it/t/tuic-espe?nosug=1)
-
-#### Sites portant sur l'éducation
-
-- [Educavox](http://www.educavox.fr/)
-- [Café Pédagogique](www.cafepedagogique.net/Pages/Accueil.aspx)
-
-#### Blog et sites d'enseignant⋅e⋅s
+### Blog et sites d'enseignant⋅e⋅s
 
 - [Lutin Bazar](http://lutinbazar.fr)
 - [Orphéécole](http://orpheecole.com)
@@ -123,34 +145,13 @@
 - [La classe de Défine](http://laclassededefine.fr)
 - [Les voyages de l'Ours Robinson](http://ien-frontignan-littoral.ac-montpellier.fr/ENT/ours/) – Blog collaboratif de maternelle.
 
-#### Manuels libres 
+## Ressources culturelles
 
-Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
-
-- [lelivrescolaire.fr](http://www.lelivrescolaire.fr/) (plus pour le collège)
-- [Sésamath](http://www.sesamath.net/) (que pour les maths)
-
-#### Activités et ateliers
-
-- [Mômes.net](http://www.momes.net) – Activités pour les enfants
-
-#### Ressources pour apprendre
-
-- [Vinz et Lou](http://www.vinzetlou.net/) – Citoyenneté, environnement, alimentation et internet
-- [Surfer Prudent](http://surferprudent.org/) – Déjouez les risques qui existent sur la toile.
-- [Boohbah](http://ien-frontignan-littoral.ac-montpellier.fr/Boohbah/boobah.swf) – Activités pour apprendre à utiliser le numérique en cycle 1
-
-### Ressources culturelles
-
-#### Ressources culturelles diverses
-
-- [L'histoire par l'image](https://www.histoire-image.org/)
-
-#### Ressources actu et infos
+### Actu et infos
 
 - [1 jour 1 actu](http://www.1jour1actu.com/) – Magazine d'information pour les enfants
 
-#### Livres et ressources textuelles
+### Textes et livres
 
 - [Projet Gutemberg](http://www.gutenberg.org/wiki/FR_Principal) — Des versions numériques de livres du domaine publique
 - [Ebooks libres et gratuits](http://www.ebooksgratuits.com/ebooks.php) – [Pack de ebooks à télécharger](http://www.ebooksgratuits.com/torrent.php) – Idem.
@@ -158,18 +159,26 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Wikilivres](https://fr.wikibooks.org/wiki/Accueil) – [Wikijunior](https://fr.wikibooks.org/wiki/Wikijunior)
 - [Gallica](http://gallica.bnf.fr/)
 - [BNF Enfant](http://enfants.bnf.fr/index.htm) – Bibliothèque numérique des enfants
-
-#### Histoires pour enfants
 - [Il était une histoire](www.iletaitunehistoire.com) – histoires, pouvant être utile pour la lecture en cycle 1
 - [Continettes](http://continette.free.fr/) – Contes interactifs
 - [Le Petit Vélo Rouge](http://petitvelorouge.free.fr/Nouveau/home.html) – Lecture
 
-#### Musique et ressources audio
+### Ressources audio
 
 - [MusOpen](https://musopen.org/) — Des enregistrements téléchargeable légalement de musique classique.
 - [Jamendo](https://jamendo.com) — De la musique libre et gratuite
 
-## Sources et ressources en vrac :
+### Ressources culturelles diverses
+
+- [L'histoire par l'image](https://www.histoire-image.org/)
+
+
+## Polices
+
+- [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
+- [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean. Elle peut être pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
+
+## Sources et autres listes :
 
 - [Liste de ressources libres de Wikilivres](https://fr.wikibooks.org/wiki/Wikilivres:Ressources_libres_de_droit)
 - [Liste de ressources libres de Wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ressources_libres#Texte)
