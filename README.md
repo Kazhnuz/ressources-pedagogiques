@@ -104,15 +104,15 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Pepit](http://www.pepit.be/) - Exercices éducatifs (cycles 1, 2 et 3)
 - [Matou Matheu](matoumatheux.ac-rennes.fr/accueilniveaux/accueilFrance.htm) – Exercices de mathématiques (cycles 2 et 3)
 - [Les Incollables](http://www.lesincollables.com/index.php?p_m=incos&p_a=home) – Quizz en lignes (cycles 2 et 3)
-- [Tilou](http://www.tilou.info/) – Activités pour la maternelle
-- [Wismo](http://www.wismo.ch/jeux/) – Jeux pour la maternelle
-- [Kizdo](http://www.kidzo.net/) – Pareil
-- [Bowaa et Kwala](http://uptoten.com/?cl=fr) – Pareil
+- [Tilou](http://www.tilou.info/) – Activités pour la maternelle (cycle 1)
+- [Wismo](http://www.wismo.ch/jeux/) – Jeux pour la maternelle (cycle 1)
+- [Kizdo](http://www.kidzo.net/) – Pareil (cycle 1)
+- [Bowaa et Kwala](http://uptoten.com/?cl=fr) – Pareil (cycle 1)
 - [Tibao](http://www.tibao.com/fr/baobab.htm) – Math et lecture (Cycles 1 et 2)
 - [L'instit.com](http://www.linstit.com/exercices-maths-francais-accueil.html) – Exercices de maths et de français (cycles 2 et 3)
 - [aidemoi.net](http://www.aidemoi.net/index.html) – Exercices et jeux éducatifs dédié au soutiens scolaire (cycles 2 et 3)
 - [Calcul@TICE](http://calculatice.ac-lille.fr/calculatice/spip.php?rubrique2) – Exercices de mathématiques (cycles 2 et 3)
-- [Embouteillages](http://micetf.fr/Embouteillages/) – Repérage et logique en GS
+- [Embouteillages](http://micetf.fr/Embouteillages/) – Repérage et logique en GS (cycle 1)
 - [Le roi qui n'aimait pas son métier](http://www.pour-enfants.fr/textes-a-trous/trsom.htm) – Histoires à trou (cycles 2 et 3)
 - [Inspecteur Lafouine](http://ecole.toussaint.free.fr/lafouine/lafouine.htm) – Enigmes (cycles 2 et 3)
 - [De simples machines](http://www.cite-sciences.fr/ressources-en-ligne/juniors/machines-simples/experiences-ludiques/) – Jeux en liens avec les sciences (cycles 2 et 3)
