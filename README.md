@@ -122,7 +122,7 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 - [Qwant Junior](http://qwantjunior.com/) – Un moteur de recherche pour les enfants
 - [BabyGo](http://www.babygo.fr/) – Pareil
 - [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
-- [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
+- [Edutwit](https://edutwit.abuledu.org/) – Un Twitter pour enfant et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter, fourni par Abulédu.
 - [La Météo des Écoles](http://www.meteodesecoles.org/) – Saisie de Relevé météorologique
 - [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
 - [ViewPure](http://viewpure.com/) — Voir les vidéo youtube sans tout le tatouin autour
