@@ -177,6 +177,7 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 
 - [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
 - [Comic Neue](http://www.comicneue.com/) – une police proche du comic sans, plus clean. Elle peut être pratique si vous voulez avoir une petite police sympa mais qui aggresse moins les yeux :)
+- [Borel](https://github.com/latablettedecire/) - Une police d'écriture et système typographique alternatif permettant une meilleurs lisibilité des lettres.
 
 ## Sources et autres listes :
 
